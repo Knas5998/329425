@@ -1,0 +1,13 @@
+VersionCode: 3100
+VersionName: 6.0.0
+ColorOS Version: UNKNOW
+Mobile MODEL: CPH2185
+Android Version: 10
+Android API: 29
+getNetworkTypeName: mobile
+WindowWidth And WindowHeight: 720*1456
+WindowDensity:2.0
+System's currenTimeMillis: 1631796915926
+TimeZone: libcore.util.ZoneInfo[id="Asia/Phnom_Penh",mRawOffset=25200000,mEarliestRawOffset=24124000,mUseDst=false,mDstSavings=0,transitions=1]
+
+2021-09-15 17_39_50 024 / SIMS_ReceiverHandler : setImsConfig, volteStatus = true
